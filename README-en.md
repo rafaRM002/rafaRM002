@@ -69,7 +69,7 @@ Platform for **band management and coordination**, developed as a final project.
 | ------- | ----------- | ------------ | --------- |
 | **[BandCoord - Frontend](https://github.com/rafaRM002/bandcoord-frontend)** | Frontend development for BandCoord platform. | React | Own Repository |
 | **[BandCoord - Backend](https://github.com/rafaRM002/bandcoord-backend)** | Backend development for BandCoord platform. | Laravel | Own Repository |
-| **[Inventory Manager - Mobile Frontend](https://github.com/SantanaDV/proyecto-reactnative-gestor-inventario)** | Collaborated on mobile frontend with React Native. | React Native | Collaborative Repository |
+| **[Inventory Manager - Web Frontend](https://github.com/SantanaDV/proyecto-frontend-gestor-inventario/tree/main/proyecto-fontend)** | Collaborated on the web frontend using React for an inventory management app. | React | Collaborative Repository |
 | **[Inventory Manager - Backend](https://github.com/SantanaDV/Gestor-inventario-backend)** | Collaborated on backend with Java and Spring Boot for REST API. | Spring Boot | Collaborative Repository |
 
 ---
