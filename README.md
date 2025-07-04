@@ -1,5 +1,4 @@
 <p align="right">
-  <a href="./README.md"><img src="https://flagcdn.com/es.svg" width="24" alt="Español"/></a> 
   <a href="./README-en.md"><img src="https://flagcdn.com/gb.svg" width="24" alt="English"/></a>
 </p>
 
